@@ -1,2 +1,2 @@
 # Finantial-Calculator
-Tool used to calculate, credits, saving-plans, pensions, fund.
+Tool used to calculate, loans, saving-plans, pensions, fund.
